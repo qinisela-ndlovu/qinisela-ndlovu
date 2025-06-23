@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Qinisela Ndlovu</h1>
 <h3 align="center">I'm a Systems Analyst with a strong interest for ML and Data Science</h3>
 
-- 👨‍💻 All of my projects are available at [https://qinisela-ndlovu.github.io/qinisela-ndlovu.github.io./]()
+- 👨‍💻 View my personal website at https://qinisela-ndlovu.github.io/qinisela-ndlovu.github.io./
 
 - 📫 How to reach me **qqinisela982@gmail.com**
 
@@ -10,7 +10,6 @@
 </p>
 ## 🚀 Featured Projects
 
-- 📝 [My Portfolio Website](https://qinisela-ndlovu.github.io/qinisela-ndlovu.github.io./)
 - 📊 [HR Data Analytics Project](https://github.com/qinisela-ndlovu/hr_employee_attrition_project)
 - 🧠 [Intermediate ML Exercises from Kaggle](https://github.com/qinisela-ndlovu/kaggle-learn-exercises)
 
