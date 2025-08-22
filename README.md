@@ -11,7 +11,7 @@
 ## 🚀 Featured Projects
 
 - 📊 [HR Data Analytics Project](https://github.com/qinisela-ndlovu/hr_employee_attrition_project)
-- 🧠 [Intermediate ML Exercises from Kaggle](https://github.com/qinisela-ndlovu/kaggle-learn-exercises)
+- 🧠 [EDA on Retail Data - Python](https://github.com/qinisela-ndlovu/Exploratory-Data-Analysis-on-Retail-Data-Python-)
 
 
 <h3 align="left">Languages and Tools:</h3>
