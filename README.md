@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Qinisela Ndlovu</h1>
-<h3 align="center">I'm a Systems Analyst with a strong interest for ML and Data Science</h3>
+<h1 align="center">Hi 👋, I'm Qinisela Ndlovu! The problem Solver</h1>
 
 - 👨‍💻 View my personal website at https://qinisela-ndlovu.github.io/qinisela-ndlovu.github.io./
 
-- 📫 How to reach me **qqinisela982@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
