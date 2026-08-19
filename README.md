@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-## 🚀 Some of my Projects
+#  Some of my Projects
 
 - 📊 [Employee Attrition Prediction](https://github.com/qinisela-ndlovu/Employee-Attrition-Prediction/blob/main/README.md)
 - 🧠 [ECI Analysis in Sub-Saharan of Africa 1995-2018](https://github.com/qinisela-ndlovu/ECI-Data-Analyst-PowerBI/blob/main/README.md)
